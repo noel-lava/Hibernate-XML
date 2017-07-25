@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 25 13:34:55 PHT 2017
+app-1.0-SNAPSHOT-jar-with-dependencies.jar>=
+app-1.0-SNAPSHOT.jar>=
+app-1.0-SNAPSHOT.pom>=
